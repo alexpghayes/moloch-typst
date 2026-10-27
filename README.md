@@ -8,7 +8,6 @@ CC-BY-SA-4.0, like Moloch.
 - `moloch.typ`: the theme
 - `example.typ`: a deck to start from
 - `example-light.pdf`, `example-dark.pdf`: compiled examples
-- `comparison/`: Typst next to real Moloch output, and the Beamer source
 
 ```sh
 typst compile example.typ                          # light
